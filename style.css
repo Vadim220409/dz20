@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+}
+
+.header {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-image: url(./img/bj.jpg);
+}
+
+.wrapper {
+  width: 1000px;
+  margin: auto;
+  padding-top: 16px;
+}
+
+.button {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 40px;
+}
+
+.header-menu {
+  text-align: center;
+}
+
+.header-tittle {
+  color: white;
+  font-size: 80px;
+  margin-top: 450px;
+  width: 800px;
+}
+
+.header-tittle > span {
+  font-style: italic;
+}
